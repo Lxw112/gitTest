@@ -7,5 +7,6 @@ public class Main {
         System.out.println("hot-fix");
         System.out.println("master");
         System.out.println("hot-fix2");
+        System.out.println("push");
     }
 }
